@@ -16,28 +16,58 @@
   </p>
 </div>
 
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Neverland-XFX&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats">
-
 ### Profile Snapshot
 
 <p>
-  <img alt="Joined GitHub" src="https://img.shields.io/badge/Joined-Mar%202022-2f80ed?style=flat-square&logo=github">
+  <img alt="Joined GitHub" src="https://img.shields.io/badge/Joined-Mar%2010%2C%202022-2f80ed?style=flat-square&logo=github">
   <img alt="Public repositories" src="https://img.shields.io/badge/Public%20Repos-24-2f80ed?style=flat-square&logo=github">
+  <img alt="Original repositories" src="https://img.shields.io/badge/Original%20Repos-11-2f80ed?style=flat-square&logo=github">
   <img alt="Followers" src="https://img.shields.io/badge/Followers-9-2f80ed?style=flat-square&logo=github">
   <img alt="Following" src="https://img.shields.io/badge/Following-1-2f80ed?style=flat-square&logo=github">
-  <img alt="Stars earned" src="https://img.shields.io/badge/Stars%20Earned-78-f6c343?style=flat-square&logo=github">
+  <img alt="Total stars earned" src="https://img.shields.io/badge/Total%20Stars-78-f6c343?style=flat-square&logo=github">
+  <img alt="Total forks received" src="https://img.shields.io/badge/Total%20Forks-10-f6c343?style=flat-square&logo=github">
 </p>
 
 <table>
   <tr>
-    <td><strong>Joined GitHub</strong><br>Mar 10, 2022</td>
-    <td><strong>Public Repos</strong><br>24 total / 11 original / 13 forks</td>
-    <td><strong>Network</strong><br>9 followers / 1 following</td>
+    <td align="center" width="16%">
+      <img width="28" src="https://cdn.simpleicons.org/github/181717" alt="GitHub"><br>
+      <strong>Mar 10, 2022</strong><br>
+      <sub>Joined GitHub</sub>
+    </td>
+    <td align="center" width="16%">
+      <img width="28" src="https://cdn.simpleicons.org/github/181717" alt="Repositories"><br>
+      <strong>24</strong><br>
+      <sub>Public Repos</sub>
+    </td>
+    <td align="center" width="16%">
+      <img width="28" src="https://cdn.simpleicons.org/git/F05032" alt="Original Repositories"><br>
+      <strong>11 / 13</strong><br>
+      <sub>Original / Forks</sub>
+    </td>
+    <td align="center" width="16%">
+      <img width="28" src="https://cdn.simpleicons.org/github/181717" alt="Followers"><br>
+      <strong>9 / 1</strong><br>
+      <sub>Followers / Following</sub>
+    </td>
+    <td align="center" width="16%">
+      <img width="28" src="https://cdn.simpleicons.org/github/181717" alt="Stars"><br>
+      <strong>78</strong><br>
+      <sub>Total Stars</sub>
+    </td>
+    <td align="center" width="16%">
+      <img width="28" src="https://cdn.simpleicons.org/git/F05032" alt="Forks"><br>
+      <strong>10</strong><br>
+      <sub>Total Forks</sub>
+    </td>
   </tr>
   <tr>
-    <td><strong>Original Repo Stars</strong><br>78 stars earned</td>
-    <td><strong>Original Repo Forks</strong><br>10 forks received</td>
-    <td><strong>Top Project</strong><br>Unity-Framework · 66 stars · 8 forks</td>
+    <td colspan="6" align="center">
+      <img width="20" src="https://cdn.simpleicons.org/unity/222222/ffffff" alt="Unity">
+      <strong>Top Project:</strong>
+      <a href="https://github.com/Neverland-XFX/Unity-Framework">Unity-Framework</a>
+      · 66 stars · 8 forks
+    </td>
   </tr>
 </table>
 
@@ -45,39 +75,42 @@
 
 ### About Me
 
-- Nice to meet you. I build and study game-client systems around Unity, C#, and real-time gameplay.
-- My main interests are deterministic simulation, lockstep / rollback networking, fixed-point math, UI performance, and maintainable client architecture.
-- I write most long-form notes in Chinese on [Neverlandの博客](https://www.neverland-xfx.cn/).
-- Beyond code, I like games, ACG, and light novels. If you share a passion for ACG and tech, let's be friends.
+我主要在折腾游戏客户端、工具链和一些偏底层的工程问题。比起把功能堆到“能跑”，我更关心代码能不能长期维护、问题能不能复现、多人协作时边界能不能说清楚。
 
-<br clear="right">
+最近关注的方向比较集中：Unity / UE 客户端架构、确定性模拟与网络同步、C# / C++ 工程化，以及用 Python 和 AI Agent 把重复性的开发流程自动化。我会把踩坑、方案取舍和阶段性研究记录在 [Neverlandの博客](https://www.neverland-xfx.cn/)。
+
+代码之外，我也喜欢游戏、ACG 和轻小说。如果你也对 ACG 和技术都有兴趣，可以来交流。
 
 ### Tech Stack
 
 <p>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white">
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="AI Agent" src="https://img.shields.io/badge/AI%20Agent-111827?style=flat-square&logo=openai&logoColor=white">
+  <img alt="WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
 <table>
   <tr>
-    <td width="33%">
-      <strong>Game Client Architecture</strong><br>
-      Unity modules, UI workflow, resource management, hot-update integration, gameplay-system boundaries.
+    <td width="25%">
+      <strong><img width="18" src="https://cdn.simpleicons.org/unity/222222/ffffff" alt="Unity"> Unity / C#</strong><br>
+      客户端框架、UI 工作流、资源管理、热更新接入、技能系统和游戏业务边界拆分。
     </td>
-    <td width="33%">
-      <strong>Deterministic Simulation</strong><br>
-      Fixed-point math, lockstep, rollback, input replay, snapshot correction, deterministic debugging.
+    <td width="25%">
+      <strong><img width="18" src="https://cdn.simpleicons.org/unrealengine/0E1128" alt="Unreal Engine"> C++ / UE</strong><br>
+      学习和研究 UE 侧 Gameplay 架构、C++ 工程化、性能问题和更底层的引擎机制。
     </td>
-    <td width="33%">
-      <strong>Engineering Notes</strong><br>
-      Performance analysis, design patterns, vector math, network sync tradeoffs, practical Unity notes.
+    <td width="25%">
+      <strong><img width="18" src="https://cdn.simpleicons.org/python/3776AB" alt="Python"> Python / AI Agent</strong><br>
+      脚本工具、自动化流程、本地效率工具，以及用 Agent 辅助代码理解、生成和工作流编排。
+    </td>
+    <td width="25%">
+      <strong><img width="18" src="https://cdn.simpleicons.org/dotnet/512BD4" alt="WPF"> WPF / Desktop Tools</strong><br>
+      桌面工具、MVVM、数据绑定、调试辅助和面向开发流程的小型生产力工具。
     </td>
   </tr>
 </table>
@@ -89,8 +122,6 @@
 | <img width="22" src="https://cdn.simpleicons.org/unity/222222/ffffff" alt="Unity"> | [Unity-Framework](https://github.com/Neverland-XFX/Unity-Framework) | Unity client framework experiment around MVVM, resource / hot-update workflows, red-dot and onboarding systems, skill-system integration, and gameplay architecture. |
 | <img width="22" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET"> | [XFixedPointLibrary](https://github.com/Neverland-XFX/XFixedPointLibrary) | Fixed-point math and simulation library for deterministic gameplay, including vectors, matrices, physics, networking helpers, and xUnit tests. |
 | <img width="22" src="https://cdn.simpleicons.org/unity/222222/ffffff" alt="Unity"> | [X_SkillSystem](https://github.com/Neverland-XFX/X_SkillSystem) | A compact, extensible Unity skill-system prototype for gameplay logic experiments. |
-| <img width="22" src="https://cdn.simpleicons.org/python/3776AB" alt="Python"> | [local-screen-translator](https://github.com/Neverland-XFX/local-screen-translator) | Local screen translation utility written in Python. |
-| <img width="22" src="https://cdn.simpleicons.org/python/3776AB" alt="Python"> | [Astrbot_Plugin_SDWebuiApi](https://github.com/Neverland-XFX/Astrbot_Plugin_SDWebuiApi) | AstrBot plugin for calling a local Stable Diffusion WebUI image-generation service. |
 
 ### Selected Writing
 
@@ -104,6 +135,7 @@
 
 ### Current Direction
 
-- Hardening `Unity-Framework` around module boundaries, UI workflow, resource management, and gameplay system integration.
-- Expanding deterministic simulation experiments from `XFixedPointLibrary` into more practical Unity networking examples.
-- Migrating and organizing older notes into [Neverlandの博客](https://www.neverland-xfx.cn/).
+- 研究 Unity / UE 在客户端架构、资源组织、Gameplay 模块化和工具链上的共性与差异。
+- 继续推进确定性模拟、定点数、帧同步、回滚和状态校正相关实验。
+- 用 Python 构建更顺手的本地工具，把重复性分析、转换和验证流程自动化。
+- 跟进 AI Agent 在代码理解、调试、文档整理和开发工作流编排里的实际价值。
