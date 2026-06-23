@@ -28,8 +28,10 @@
 
 ### About Me
 
-毕业后作为WPF医用上位机软件工程师，后转行Unity游戏客户端。
-最近关注的方向：Unity / UE 客户端架构、确定性模拟与网络同步、C# / C++ 工程化，以及用 Python 和 AI Agent 把重复性的开发流程自动化。
+两年C#软件工程师，三年Unity游戏客户端。
+
+方向：Unity / UE 客户端架构、确定性模拟与网络同步、C# / C++ 工程化，以及用 Python 和 AI Agent 把重复性的开发流程自动化。
+
 代码之外，我也喜欢游戏、ACG 和轻小说。如果你也对这块感兴趣，欢迎来交流，个人博客：[https://www.neverland-xfx.cn/](https://www.neverland-xfx.cn)。
 
 ### Tech Stack
