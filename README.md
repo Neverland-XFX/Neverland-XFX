@@ -18,6 +18,31 @@
 
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Neverland-XFX&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats">
 
+### Profile Snapshot
+
+<p>
+  <img alt="Joined GitHub" src="https://img.shields.io/badge/Joined-Mar%202022-2f80ed?style=flat-square&logo=github">
+  <img alt="Public repositories" src="https://img.shields.io/badge/Public%20Repos-24-2f80ed?style=flat-square&logo=github">
+  <img alt="Followers" src="https://img.shields.io/badge/Followers-9-2f80ed?style=flat-square&logo=github">
+  <img alt="Following" src="https://img.shields.io/badge/Following-1-2f80ed?style=flat-square&logo=github">
+  <img alt="Stars earned" src="https://img.shields.io/badge/Stars%20Earned-78-f6c343?style=flat-square&logo=github">
+</p>
+
+<table>
+  <tr>
+    <td><strong>Joined GitHub</strong><br>Mar 10, 2022</td>
+    <td><strong>Public Repos</strong><br>24 total / 11 original / 13 forks</td>
+    <td><strong>Network</strong><br>9 followers / 1 following</td>
+  </tr>
+  <tr>
+    <td><strong>Original Repo Stars</strong><br>78 stars earned</td>
+    <td><strong>Original Repo Forks</strong><br>10 forks received</td>
+    <td><strong>Top Project</strong><br>Unity-Framework · 66 stars · 8 forks</td>
+  </tr>
+</table>
+
+<sub>Snapshot from public GitHub data, checked on 2026-06-23.</sub>
+
 ### About Me
 
 - Nice to meet you. I build and study game-client systems around Unity, C#, and real-time gameplay.
