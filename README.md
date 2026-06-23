@@ -16,7 +16,7 @@
   </p>
 </div>
 
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Neverland-XFX&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Neverland-XFX&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&cache_seconds=21600" alt="GitHub stats">
 
 ### About Me
 
