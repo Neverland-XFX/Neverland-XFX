@@ -3,17 +3,6 @@
   <p>
     Unity / C# game-client developer focused on architecture, deterministic simulation, networking, and tools.
   </p>
-  <p>
-    <a href="https://www.neverland-xfx.cn/">
-      <img alt="Blog" src="https://img.shields.io/badge/Blog-Neverland%E3%81%AE%E5%8D%9A%E5%AE%A2-2f80ed?style=for-the-badge&logo=hexo&logoColor=white">
-    </a>
-    <a href="https://github.com/Neverland-XFX/Unity-Framework">
-      <img alt="Unity Framework" src="https://img.shields.io/badge/Unity-Framework-222222?style=for-the-badge&logo=unity&logoColor=white">
-    </a>
-    <a href="mailto:578463782@qq.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-578463782%40qq.com-d14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  </p>
 </div>
 
 ### Profile Snapshot
