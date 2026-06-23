@@ -1,48 +1,73 @@
-<h1 align="center">Hi, I'm Neverland.</h1>
+<div align="center">
+  <h1>Hi, I'm Neverland <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"></h1>
+  <p>
+    Unity / C# game-client developer focused on architecture, deterministic simulation, networking, and tools.
+  </p>
+  <p>
+    <a href="https://www.neverland-xfx.cn/">
+      <img alt="Blog" src="https://img.shields.io/badge/Blog-Neverland%E3%81%AE%E5%8D%9A%E5%AE%A2-2f80ed?style=for-the-badge&logo=hexo&logoColor=white">
+    </a>
+    <a href="https://github.com/Neverland-XFX/Unity-Framework">
+      <img alt="Unity Framework" src="https://img.shields.io/badge/Unity-Framework-222222?style=for-the-badge&logo=unity&logoColor=white">
+    </a>
+    <a href="mailto:578463782@qq.com">
+      <img alt="Email" src="https://img.shields.io/badge/Email-578463782%40qq.com-d14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  Unity / C# developer focused on game-client architecture, deterministic simulation, networking, and tooling.
-</p>
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Neverland-XFX&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
 
-<p align="center">
-  <a href="https://www.neverland-xfx.cn/">Blog</a> ·
-  <a href="https://github.com/Neverland-XFX/Unity-Framework">Unity Framework</a> ·
-  <a href="https://github.com/Neverland-XFX/XFixedPointLibrary">Fixed Point Library</a> ·
-  <a href="mailto:578463782@qq.com">Email</a>
-</p>
+### About Me
 
-<p align="center">
+- Nice to meet you. I build and study game-client systems around Unity, C#, and real-time gameplay.
+- My main interests are deterministic simulation, lockstep / rollback networking, fixed-point math, UI performance, and maintainable client architecture.
+- I write most long-form notes in Chinese on [Neverlandの博客](https://www.neverland-xfx.cn/).
+- Beyond code, I like games, ACG, and light novels. If you share a passion for ACG and tech, let's be friends.
+
+<br clear="right">
+
+### Tech Stack
+
+<p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white">
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-## About
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Game Client Architecture</strong><br>
+      Unity modules, UI workflow, resource management, hot-update integration, gameplay-system boundaries.
+    </td>
+    <td width="33%">
+      <strong>Deterministic Simulation</strong><br>
+      Fixed-point math, lockstep, rollback, input replay, snapshot correction, deterministic debugging.
+    </td>
+    <td width="33%">
+      <strong>Engineering Notes</strong><br>
+      Performance analysis, design patterns, vector math, network sync tradeoffs, practical Unity notes.
+    </td>
+  </tr>
+</table>
 
-I build and study game-client systems around Unity, C#, and real-time gameplay. My current interests are deterministic simulation, lockstep/rollback networking, fixed-point math, UI performance, and maintainable client architecture.
+### Featured Work
 
-我主要用中文记录工程实践，博客内容集中在 Unity、C#、游戏客户端架构、网络同步、定点数模拟和性能优化。
+| Icon | Project | Notes |
+| --- | --- | --- |
+| <img width="22" src="https://cdn.simpleicons.org/unity/222222/ffffff" alt="Unity"> | [Unity-Framework](https://github.com/Neverland-XFX/Unity-Framework) | Unity client framework experiment around MVVM, resource / hot-update workflows, red-dot and onboarding systems, skill-system integration, and gameplay architecture. |
+| <img width="22" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET"> | [XFixedPointLibrary](https://github.com/Neverland-XFX/XFixedPointLibrary) | Fixed-point math and simulation library for deterministic gameplay, including vectors, matrices, physics, networking helpers, and xUnit tests. |
+| <img width="22" src="https://cdn.simpleicons.org/unity/222222/ffffff" alt="Unity"> | [X_SkillSystem](https://github.com/Neverland-XFX/X_SkillSystem) | A compact, extensible Unity skill-system prototype for gameplay logic experiments. |
+| <img width="22" src="https://cdn.simpleicons.org/python/3776AB" alt="Python"> | [local-screen-translator](https://github.com/Neverland-XFX/local-screen-translator) | Local screen translation utility written in Python. |
+| <img width="22" src="https://cdn.simpleicons.org/python/3776AB" alt="Python"> | [Astrbot_Plugin_SDWebuiApi](https://github.com/Neverland-XFX/Astrbot_Plugin_SDWebuiApi) | AstrBot plugin for calling a local Stable Diffusion WebUI image-generation service. |
 
-## What I Care About
-
-- Game client architecture that stays readable as gameplay, UI, resources, and live-update workflows grow.
-- Deterministic gameplay systems: fixed-point math, lockstep, rollback, snapshot correction, and replay-friendly logic.
-- Unity production tooling: MVVM-style binding, code generation, module boundaries, and editor workflow improvement.
-- Writing down engineering tradeoffs so future decisions are easier to review.
-
-## Featured Work
-
-| Project | Notes |
-| --- | --- |
-| [Unity-Framework](https://github.com/Neverland-XFX/Unity-Framework) | Unity client framework experiment around MVVM, resource/hot-update workflows, red-dot/onboarding systems, skill-system integration, and gameplay architecture. |
-| [XFixedPointLibrary](https://github.com/Neverland-XFX/XFixedPointLibrary) | Fixed-point math and simulation library for deterministic gameplay, including vectors, matrices, physics, networking helpers, and xUnit tests. |
-| [X_SkillSystem](https://github.com/Neverland-XFX/X_SkillSystem) | A compact, extensible Unity skill-system prototype for gameplay logic experiments. |
-| [local-screen-translator](https://github.com/Neverland-XFX/local-screen-translator) | Local screen translation utility written in Python. |
-| [Astrbot_Plugin_SDWebuiApi](https://github.com/Neverland-XFX/Astrbot_Plugin_SDWebuiApi) | AstrBot plugin for calling a local Stable Diffusion WebUI image-generation service. |
-
-## Selected Writing
+### Selected Writing
 
 | Topic | Article |
 | --- | --- |
@@ -52,10 +77,8 @@ I build and study game-client systems around Unity, C#, and real-time gameplay. 
 | UI performance | [对 UI 性能瓶颈与实践的一些见解](https://www.neverland-xfx.cn/2024/09/12/Unity%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/2024-09-12-Unity-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%B3%BB%E5%88%97%EF%BC%882%EF%BC%89%EF%BC%9A%E5%AF%B9UI%E6%80%A7%E8%83%BD%E7%93%B6%E9%A2%88%E4%B8%8E%E5%AE%9E%E8%B7%B5%E7%9A%84%E4%B8%80%E4%BA%9B%E8%A7%81%E8%A7%A3/) |
 | Vector math | [Unity 向量计算专题](https://www.neverland-xfx.cn/tags/%E5%90%91%E9%87%8F%E8%AE%A1%E7%AE%97/) |
 
-## Current Direction
+### Current Direction
 
 - Hardening `Unity-Framework` around module boundaries, UI workflow, resource management, and gameplay system integration.
 - Expanding deterministic simulation experiments from `XFixedPointLibrary` into more practical Unity networking examples.
 - Migrating and organizing older notes into [Neverlandの博客](https://www.neverland-xfx.cn/).
-
-Beyond code, I like games, ACG, and light novels. If you share a passion for ACG and tech, let's be friends.
