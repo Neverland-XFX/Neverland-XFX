@@ -18,60 +18,24 @@
 
 ### Profile Snapshot
 
-<p>
-  <img alt="Joined GitHub" src="https://img.shields.io/badge/Joined-Mar%2010%2C%202022-2f80ed?style=flat-square&logo=github">
-  <img alt="Public repositories" src="https://img.shields.io/badge/Public%20Repos-24-2f80ed?style=flat-square&logo=github">
-  <img alt="Original repositories" src="https://img.shields.io/badge/Original%20Repos-11-2f80ed?style=flat-square&logo=github">
-  <img alt="Followers" src="https://img.shields.io/badge/Followers-9-2f80ed?style=flat-square&logo=github">
-  <img alt="Following" src="https://img.shields.io/badge/Following-1-2f80ed?style=flat-square&logo=github">
-  <img alt="Total stars earned" src="https://img.shields.io/badge/Total%20Stars-78-f6c343?style=flat-square&logo=github">
-  <img alt="Total forks received" src="https://img.shields.io/badge/Total%20Forks-10-f6c343?style=flat-square&logo=github">
-</p>
-
 <table>
   <tr>
-    <td align="center" width="16%">
-      <img width="28" src="https://cdn.simpleicons.org/github/181717" alt="GitHub"><br>
-      <strong>Mar 10, 2022</strong><br>
-      <sub>Joined GitHub</sub>
+    <td width="50%" valign="top">
+      <strong>Profile</strong><br><br>
+      <img width="16" src="https://cdn.simpleicons.org/github/181717" alt="GitHub"> Joined GitHub 4 years ago<br>
+      <sub>Since Mar 10, 2022</sub><br><br>
+      <img width="16" src="https://cdn.simpleicons.org/github/181717" alt="Followers"> Followed by 9 users<br>
+      <img width="16" src="https://cdn.simpleicons.org/github/181717" alt="Following"> Following 1 user
     </td>
-    <td align="center" width="16%">
-      <img width="28" src="https://cdn.simpleicons.org/github/181717" alt="Repositories"><br>
-      <strong>24</strong><br>
-      <sub>Public Repos</sub>
-    </td>
-    <td align="center" width="16%">
-      <img width="28" src="https://cdn.simpleicons.org/git/F05032" alt="Original Repositories"><br>
-      <strong>11 / 13</strong><br>
-      <sub>Original / Forks</sub>
-    </td>
-    <td align="center" width="16%">
-      <img width="28" src="https://cdn.simpleicons.org/github/181717" alt="Followers"><br>
-      <strong>9 / 1</strong><br>
-      <sub>Followers / Following</sub>
-    </td>
-    <td align="center" width="16%">
-      <img width="28" src="https://cdn.simpleicons.org/github/181717" alt="Stars"><br>
-      <strong>78</strong><br>
-      <sub>Total Stars</sub>
-    </td>
-    <td align="center" width="16%">
-      <img width="28" src="https://cdn.simpleicons.org/git/F05032" alt="Forks"><br>
-      <strong>10</strong><br>
-      <sub>Total Forks</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="6" align="center">
-      <img width="20" src="https://cdn.simpleicons.org/unity/222222/ffffff" alt="Unity">
-      <strong>Top Project:</strong>
-      <a href="https://github.com/Neverland-XFX/Unity-Framework">Unity-Framework</a>
-      · 66 stars · 8 forks
+    <td width="50%" valign="top">
+      <strong>Open Source</strong><br><br>
+      <img width="16" src="https://cdn.simpleicons.org/github/181717" alt="Repositories"> 24 public repositories<br>
+      <img width="16" src="https://cdn.simpleicons.org/git/F05032" alt="Original repositories"> 11 original repositories / 13 forks<br>
+      <img width="16" src="https://cdn.simpleicons.org/github/181717" alt="Stars"> 78 stars earned / 10 forks received<br>
+      <img width="16" src="https://cdn.simpleicons.org/unity/222222/ffffff" alt="Unity"> Top project: <a href="https://github.com/Neverland-XFX/Unity-Framework">Unity-Framework</a> · 66 stars · 8 forks
     </td>
   </tr>
 </table>
-
-<sub>Snapshot from public GitHub data, checked on 2026-06-23.</sub>
 
 ### About Me
 
